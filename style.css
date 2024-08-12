@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+#Chiron{
+  width: 30%;
+  height: 50%;
+
+}
+
+#color {
+  background-color: #ff3131 !important;
+
+}
+
+
+.navbar {
+  background-color: black;
+}
+
+#center{
+max-width: 100%;
+}
